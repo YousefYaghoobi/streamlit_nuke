@@ -1,7 +1,6 @@
 streamlit
 torch
 torchvision
-ultralitics
 opencv-python-headless
 Pillow
 tensorflow
